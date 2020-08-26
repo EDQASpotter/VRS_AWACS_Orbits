@@ -2,7 +2,7 @@
 AWACS Orbits over Germany, Poland and Czech
 </h1>
 
-![alt tag]()
+![alt tag](https://github.com/ETEJSpotter/VRS_AWACS_Orbits/blob/master/Map_AWACS_Orbit.jpg)
 
 
 <h2>
